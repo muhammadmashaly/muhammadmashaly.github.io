@@ -1,0 +1,19 @@
+body
+{
+  background-color: rgba(255,155,0,.55);
+  font-family: 'Roboto Slab', serif;
+}
+
+h1
+{
+  margin: 80px 30px;
+}
+h1
+{
+  font-size: 50px
+}
+h3
+{
+  font-size: 25px;
+  margin-left: 30px
+}
